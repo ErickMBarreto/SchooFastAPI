@@ -1,4 +1,4 @@
-## SchooFastAPI
+## SchoolFastAPI
 First project using FastAPI and PostgreSQL.
 ______________
 
